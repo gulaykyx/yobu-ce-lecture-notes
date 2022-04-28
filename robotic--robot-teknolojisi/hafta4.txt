@@ -1,5 +1,5 @@
 Progrem 
-Yazılımı rama yazmamızı sağlıyor. Kütüphaane eklenmei gerekli kullanılmalı.
+Yazılımı ram'a yazmamızı sağlıyor. Kütüphane eklenmeli gerekli kullanılmalı.
  
 Cpp:
 Serial.print(i,Dex) i yi decimal larak yazdır
@@ -31,18 +31,18 @@ Ardunio megada 3 tane tx rx var
 
 
 
-Serial.available(): wifidan veya bloothuttan veri gelmeye başladığında 1 değerini dönderir
+Serial.available(): wifidan veya bluetoothdan veri gelmeye başladığında 1 değerini dönderir
 Ondan sonra işlemlere başlaız.
 
 Serialwrite tx rx üzerinden yazar
-Serial print sadece okuur
+Serial print sadece okur
 
 İnterruptlar(kesmeler)
 
 Romlar:
 Eep rom ve rom silinmeyen romlardır. Kullanılacak, silinmeyecek bir değer varsa bunu eeproma yazabilirsin. Kütüphane anımayıp kullanılmalı.
 
-Serihabeleşm egibi diğer haberleşme türleri
+Seri habeleşme gibi diğer haberleşme türleri
 I2c haberleşme  veri yolu
 Data kablosu ve clock kablosu var 
 Master-slave mantığında sadece gönderme alma yok şeklinde arunyolar arası veri transferi gerçekleştirilebiliyor.
@@ -54,7 +54,7 @@ Gerilim: potansiyel fark(V), iki nokta arasındaki gerilim farkıdır.
 SPI:
 4 pin üzerinden çalışır.
 
-Kütüphaneleri ardunyo uno üzerinde var
+Kütüphaneleri ardunio uno üzerinde var
 ---
 Ödev: mayısın 2. haftası:
 
